@@ -1,0 +1,15 @@
+E:\DzC#Sem2\DzC#2_1\bin\Debug\net7.0\DzC#2_1.exe
+E:\DzC#Sem2\DzC#2_1\bin\Debug\net7.0\DzC#2_1.deps.json
+E:\DzC#Sem2\DzC#2_1\bin\Debug\net7.0\DzC#2_1.runtimeconfig.json
+E:\DzC#Sem2\DzC#2_1\bin\Debug\net7.0\DzC#2_1.dll
+E:\DzC#Sem2\DzC#2_1\bin\Debug\net7.0\DzC#2_1.pdb
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.csproj.AssemblyReference.cache
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.AssemblyInfoInputs.cache
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.AssemblyInfo.cs
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.csproj.CoreCompileInputs.cache
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.dll
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\refint\DzC#2_1.dll
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.pdb
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\DzC#2_1.genruntimeconfig.cache
+E:\DzC#Sem2\DzC#2_1\obj\Debug\net7.0\ref\DzC#2_1.dll
